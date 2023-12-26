@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Arpan_Mandal<br>👀 I’m interested in blockchain , AI ,ML, competitive coding,DSA<br>🌱 I’m currently learning blockchain ,Web3 ,DSA<br>💞️ I’m looking to collaborate on anything interesting in tech<br>📫 How to reach me:- mail me on actuallyarpan@gmail.com
+👋 Hi, I’m @Arpan_Mandal<br>👀 I’m interested in blockchain , AI ,ML,Data Science ,Data Analytics ,DSA<br>🌱 I’m currently learning blockchain ,Web3 ,DSA<br>💞️ I’m looking to collaborate on anything interesting in tech<br>📫 How to reach me:- mail me on actuallyarpan@gmail.com
 
 
 ## 🌐 Socials:
